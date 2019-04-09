@@ -1,0 +1,8 @@
+prefix=/home/nvidia/sensorfusion_ws/devel
+
+Name: gmsl_n_cameras
+Description: Description of gmsl_n_cameras
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/nvidia/sensorfusion_ws/devel/lib -lgmsl_n_cameras
+Requires: 

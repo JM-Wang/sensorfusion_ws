@@ -1,2 +1,2 @@
-
--G CodeBlocks - Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/nvidia/sensorfusion_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/sensorfusion_ws/install
+gmsl_n_cameras
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/nvidia/sensorfusion_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/sensorfusion_ws/install
