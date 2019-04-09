@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/sensorfusion_ws/devel/setup.sh
