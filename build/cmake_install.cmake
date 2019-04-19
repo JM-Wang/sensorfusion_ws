@@ -118,6 +118,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/nvidia/sensorfusion_ws/build/gtest/cmake_install.cmake")
   include("/home/nvidia/sensorfusion_ws/build/gmsl_n_cameras/cmake_install.cmake")
+  include("/home/nvidia/sensorfusion_ws/build/object_detect/cmake_install.cmake")
 
 endif()
 

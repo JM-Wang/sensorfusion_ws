@@ -1,0 +1,7 @@
+classes= 12
+train  = train.txt
+valid  = val.txt
+names  = BDD12_detector.names
+backup = ./
+
+

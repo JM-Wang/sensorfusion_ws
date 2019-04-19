@@ -1,0 +1,8 @@
+prefix=/home/nvidia/sensorfusion_ws/install
+
+Name: object_detect
+Description: Description of object_detect
+Version: 0.1.0
+Cflags: -I/home/nvidia/sensorfusion_ws/install/include
+Libs: -L/home/nvidia/sensorfusion_ws/install/lib 
+Requires: message_runtime

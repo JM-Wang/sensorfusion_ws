@@ -6,3 +6,4 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs(gtest)
 subdirs(gmsl_n_cameras)
+subdirs(object_detect)
